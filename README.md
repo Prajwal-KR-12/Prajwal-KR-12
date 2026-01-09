@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prajwal KR<br>🎓 Electronics & Telecommunication Engineering Student (B.Tech)<br>📍 Shivamogga, Karnataka, India<br>💻 Python Developer | Embedded Systems | IoT | Full-Stack (Learning) | AI-Assisted Applications<br><br>I am an engineering student with strong interest in Python development, embedded systems, and intelligent applications. Alongside my core electronics background, I am actively learning full-stack web development to build end-to-end applications that combine frontend interfaces, backend logic, and databases.
+👋 Hi, I’m Prajwal KR<br>🎓 Electronics & Telecommunication Engineering Student (BE)<br>📍 Shivamogga, Karnataka, India<br>💻 Python Developer | Embedded Systems | IoT | Full-Stack (Learning) | AI-Assisted Applications<br><br>I am an engineering student with strong interest in Python development, embedded systems, and intelligent applications. Alongside my core electronics background, I am actively learning full-stack web development to build end-to-end applications that combine frontend interfaces, backend logic, and databases.
 
 
 ## 🌐 Socials:
